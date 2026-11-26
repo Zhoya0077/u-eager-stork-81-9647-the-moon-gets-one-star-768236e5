@@ -1,0 +1,1 @@
+{"description":"The funniest one-star review of the Moon, in 120 characters or fewer.","license":"MIT","main":"main.ts","name":"moon-one-star","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
